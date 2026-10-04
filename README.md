@@ -17,9 +17,9 @@ A small interactive fractal explorer built with **C** and **MiniLibX** as part o
 
 ### 🎬 Watch fractol in action
 
-<video src="https://raw.githubusercontent.com/sakkayaa/fractol/master/assets/fractol-demo.mp4" controls loop muted playsinline width="780">Your browser does not support embedded video. [Open the demo on GitHub](https://github.com/sakkayaa/fractol/blob/master/assets/fractol-demo.mp4).</video>
+<video src="https://raw.githubusercontent.com/sakkayaa/fractol/master/assets/fractol-demo.mp4" controls loop muted playsinline width="780">Your browser does not support embedded video. [Open the demo on GitHub](https://github.com/sakkayaa/fract-ol/blob/master/assets/fractol-demo.mp4).</video>
 
-[▶️ Open the 35-second demo on GitHub](https://github.com/sakkayaa/fractol/blob/master/assets/fractol-demo.mp4)
+[▶️ Open the 35-second demo on GitHub](https://github.com/sakkayaa/fract-ol/blob/master/assets/fractol-demo.mp4)
 
 </div>
 
@@ -69,6 +69,12 @@ make clean  # Remove object files
 make fclean # Remove object files and the executable
 make re     # Clean and rebuild
 ```
+
+## 🏅 42 evaluation
+
+The project received a **successful score of 125/100**. The evaluation summary is included below.
+
+![42 fractol evaluation result: successful, 125 out of 100](assets/fractol-evaluation.png)
 
 ## 👩‍💻 About
 
