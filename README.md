@@ -17,7 +17,7 @@ A small interactive fractal explorer built with **C** and **MiniLibX** as part o
 
 ### 🎬 Watch fractol in action
 
-[![▶️ Watch the fractol demo](assets/mandelbrot-preview.png)](https://github.com/sakkayaa/fractol/blob/master/assets/fractol-demo.mp4)
+[![▶️ Watch the fractol demo]](https://github.com/sakkayaa/fractol/blob/master/assets/fractol-demo.mp4)
 
 [▶️ Open and play the demo on GitHub](https://github.com/sakkayaa/fractol/blob/master/assets/fractol-demo.mp4)
 
